@@ -1,0 +1,60 @@
+.葡萄藤轻游戏专注于桌游领域，提供在线杀人游戏，捉鬼，炸狼堡等多种聚会游戏，以下线下聚会桌游道具。 {
+  font-size: 30px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(255, 255, 255);
+  line-height: 1.807;
+  position: absolute;
+  left: 90.3px;
+  top: 488.494px;
+  width: 449px;
+  height: 192px;
+  z-index: 26;
+}
+
+.椭圆_1 {
+  border-radius: 50%;
+  background-color: rgb(0, 158, 150);
+  position: absolute;
+  left: 139px;
+  top: 803px;
+  width: 84px;
+  height: 84px;
+  z-index: 31;
+}
+
+.BJPTTeng {
+  font-size: 24px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(255, 255, 255);
+  line-height: 2.259;
+  position: absolute;
+  left: 423.88px;
+  top: 944.93px;
+  z-index: 29;
+}
+
+
+._2905609332 {
+  font-size: 24px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(255, 255, 255);
+  line-height: 2.259;
+  position: absolute;
+  left: 120.717px;
+  top: 891.392px;
+  z-index: 28;
+}
+
+
+.图层_0 {
+  background-image: url("图层 0.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 640px;
+  height: 1136px;
+  z-index: 2;
+}
+
+
+
