@@ -1,13 +1,14 @@
 html,body {padding: 0;
-           max-width:72em;
-	       min-width:32em;
            margin:0 auto;
 	       height:100%;
-		   font-size:62.5%;
+		   max-width:720px;
+	       min-width:320px;
+		   background-color:#68cdd5;
+		   font-size:62.5%;/*之前背景色设置在div的样式里，导致页面两遍有白边，改在body里面解决问题*/
 	       }
 
 .background {height:100%;
-             background-color:#68cdd5;}
+             }
 
 .backbutton {padding-top:2%;
              padding-left:4%;
@@ -21,7 +22,7 @@ html,body {padding: 0;
 	   padding-right:10%;
 	   padding-top:10%;
 	   padding-bottom:15%;
-	   font-size: 3em;
+	   font-size: 30px;
 	   color: rgb(255, 255, 255);
        }
 	   
@@ -30,5 +31,5 @@ html,body {padding: 0;
 	   }
 
 .icontext {text-align:center;
-           font-size: 2.4em;
+           font-size: 24px;
 		   color: rgb(255, 255, 255);}
